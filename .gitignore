@@ -1,10 +1,4 @@
-# SLURM output files
 *.out
 *.err
-slurm-*.out
-# Generated data files
 *.txt
-
-# Environment-specific files
-.vscode/
-.DS_Store
+slurm-*.out
